@@ -1,4 +1,3 @@
-# Py-dump-learn
 # 🐍 Python Lab Programs
  
 > A collection of beginner-to-intermediate Python programs covering core programming concepts — from basic I/O to file handling, matrices, and number theory.
@@ -29,3 +28,10 @@
 | 18 | `Menu-Driven_Calculator_(Switch-Case).py` | A menu-driven calculator using Python's `match-case` statement supporting addition, subtraction, multiplication, and safe division. |
 | 19 | `File_Create_and_Write_Operations.py` | Creates a text file, writes student data (name, roll, subject, department), and reads it back — demonstrates basic file I/O. |
 | 20 | `Copy_Content_from_One_File_to_Another.py` | Copies content from `student_data.txt` to a new file, then prints the copied content — includes error handling for missing source. |
+| 21 | `Size_of_Data_Types.py` | Uses `sys.getsizeof()` to display memory sizes of Python's core data types — int, float, str, and bool — in bytes. |
+| 22 | `Sort_Array_in_Ascending_Order.py` | Sorts an array of N integers in ascending order using the bubble sort algorithm, mirroring the traditional C-style approach. |
+| 23 | `String_Operations_Using_Library_Functions.py` | Demonstrates common string operations — length, concatenation, comparison, uppercase, and reverse — on two user-input strings. |
+| 24 | `Student_Details_Using_Structure_(Class).py` | Models a student record using a Python class with name, roll, and marks attributes, demonstrating OOP fundamentals with a `display()` method. |
+| 25 | `Swap_Two_Variables_Using_a_Function.py` | Swaps two integers via a function that returns a tuple, showcasing Python's clean multiple-return-value syntax before and after swap. |
+| 26 | `Transpose_of_a_Matrix.py` | Reads an r×c matrix, prints the original, then computes and displays its transpose using list comprehension. |
+| 27 | `Triangular_Patterns_Using_Nested_Loops.py` | Prints three star/number patterns — right-angle triangle, inverted triangle, and number triangle — using nested loops. |
