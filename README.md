@@ -1,4 +1,4 @@
-# 🐍 Python Lab Programs
+# Python Lab Programs
  
 > A collection of beginner-to-intermediate Python programs covering core programming concepts — from basic I/O to file handling, matrices, and number theory.
  
